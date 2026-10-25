@@ -79,11 +79,11 @@ insert into publisher values (2, 'Bentang Pustaka', 'Yogyakarta', '0274555002');
 insert into publisher values (3, 'Informatika Bandung', 'Bandung', '0225555003');
 insert into publisher values (4, 'Lentera Dipanta', 'Jakarta', '0215555004');
 
-insert into author values (1, 'Andrea Hirata', 'Indonesial');
+insert into author values (1, 'Andrea Hirata', 'indonesia');
 insert into author values (2, 'Pramoedya Ananta Toer', 'Indonesia');
-insert into author values (3, 'Tere Liye', 'Indonesial');
-insert into author values (4, 'Rinaldi Munir', 'Indonesial');
-insert into author values (5, 'Leoni Lidya', 'Indonesial');
+insert into author values (3, 'Tere Liye', 'indonesia');
+insert into author values (4, 'Rinaldi Munir', 'indonesia');
+insert into author values (5, 'Leoni Lidya', 'indonesia');
 
 insert into book values ('BK0001', '9786021000014', 'Laskar Pelangi', '2005', 529, 5, 2);
 insert into book values ('BK0002', '9786021000021', 'Bumi Manusia', '2005', 535, 3, 4);
