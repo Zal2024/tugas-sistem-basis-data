@@ -11,7 +11,3 @@ Repositori ini berisi kumpulan tugas dan praktikum mata kuliah **Sistem Basis Da
 | 1 | [**Tugas-Sistem-Basis-Data-Modul-2**](./Tugas-Sistem-Basis-Data-Modul-2/) | DDL dan DML|
 
 ---
-
-## Lingkungan
-- **DBMS**: MySQL
-- **Database**: `its_library`
