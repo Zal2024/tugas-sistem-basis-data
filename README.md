@@ -4,14 +4,14 @@ Repositori ini berisi kumpulan tugas dan praktikum mata kuliah **Sistem Basis Da
 
 ---
 
-## 📂 Daftar Modul
+## Daftar Modul
 
 | No | Modul / Folder | Deskripsi |
 |:--:|:---|:---|
-| 1 | [**Tugas-Sistem-Basis-Data-Modul-2**](./Tugas-Sistem-Basis-Data-Modul-2/) | DDL (pembuatan skema `its_library`), data seeding, dan operasi DML (manipulasi data). |
+| 1 | [**Tugas-Sistem-Basis-Data-Modul-2**](./Tugas-Sistem-Basis-Data-Modul-2/) | DDL dan DML|
 
 ---
 
-## 🛠️ Lingkungan
-- **DBMS**: MySQL / MariaDB
+## Lingkungan
+- **DBMS**: MySQL
 - **Database**: `its_library`
